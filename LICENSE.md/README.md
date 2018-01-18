@@ -1,3 +1,3 @@
 # Resource
--some interesting website
-     -[GEOMETRIC TOOL](https://www.geometrictools.com/index.html)
+- Some interesting website
+    - [GEOMETRIC TOOL](https://www.geometrictools.com/index.html)
