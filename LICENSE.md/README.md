@@ -1,0 +1,2 @@
+# Resource
+web cookie
