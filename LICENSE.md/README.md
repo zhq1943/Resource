@@ -7,3 +7,6 @@
     - [设置openvpn](https://www.cnblogs.com/kl876435928/p/7155354.html)
     - [TCP/IP Project](http://www.saminiir.com/)
     - [CodePrectice](https://coderbyte.com/)
+    - [Dive Into Python](http://www.diveintopython.net/)
+    - [Learn Code The Hard Way](https://learncodethehardway.org/)
+    - [Learn Python Programming](http://inventwithpython.com/)
