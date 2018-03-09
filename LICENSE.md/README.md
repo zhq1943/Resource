@@ -11,3 +11,4 @@
     - [Learn Code The Hard Way](https://learncodethehardway.org/)
     - [Learn Python Programming](http://inventwithpython.com/)
     - [Obey the testing goat](https://www.obeythetestinggoat.com/)
+    - [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
