@@ -13,3 +13,4 @@
     - [Obey the testing goat](https://www.obeythetestinggoat.com/)
     - [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
     - [机器学习博客](http://blog.topspeedsnail.com/)
+    - [Django learn](https://www.zmrenwu.com/post/2/)
