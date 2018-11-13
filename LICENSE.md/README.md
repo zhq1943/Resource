@@ -14,3 +14,4 @@
     - [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
     - [机器学习博客](http://blog.topspeedsnail.com/)
     - [Django learn](https://www.zmrenwu.com/post/2/)
+    - [免费电子书网站](http://www.gutenberg.org/)
