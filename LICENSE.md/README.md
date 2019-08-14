@@ -16,4 +16,4 @@
     - [Django learn](https://www.zmrenwu.com/post/2/)
     - [免费电子书网站](http://www.gutenberg.org/)
     - [Math Tools](https://www.math10.com/)
-    - [PBR-BOOK](https://www.pbr-book.org)
+    - [PBR-BOOK](http://www.pbr-book.org)
