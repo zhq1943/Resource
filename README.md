@@ -19,3 +19,4 @@
     - [Math Tools](https://www.math10.com/)
     - [PBR-BOOK](http://www.pbr-book.org)
     - [入门课程合集](https://aquadzn.github.io/learn-x-by-doing-y/)
+    - [计算机课程](https://laconicml.com/computer-science-curriculum-youtube-videos/)
