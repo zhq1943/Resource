@@ -21,3 +21,4 @@
     - [入门课程合集](https://aquadzn.github.io/learn-x-by-doing-y/)
     - [计算机课程](https://laconicml.com/computer-science-curriculum-youtube-videos/)
     - [计算机图形学入门](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+    - [开源项目收集](https://awesomeopensource.com)
