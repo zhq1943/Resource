@@ -23,3 +23,4 @@
     - [计算机图形学入门](https://gabrielgambetta.com/computer-graphics-from-scratch/)
     - [开源项目收集](https://awesomeopensource.com)
     - [Common Lisp学习](http://www.gigamonkeys.com/book/)
+    - [业余编译器作者学习](https://c9x.me/compile/bib/)
