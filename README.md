@@ -25,3 +25,6 @@
     - [Common Lisp学习](http://www.gigamonkeys.com/book/)
     - [业余编译器作者学习](https://c9x.me/compile/bib/)
     - [JS数据科学教程](http://js4ds.org)
+    - [初等微积分](https://people.math.wisc.edu/~keisler/calc.html)
+    - [设计比特币](https://bitcoin.design/guide/)
+    - [Deep Javascrip](https://exploringjs.com/deep-js/toc.html)
